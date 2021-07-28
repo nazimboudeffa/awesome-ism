@@ -6,4 +6,4 @@ A collection of sites about spiritualism (meaning from ism.co) I start by defaul
  - quran.com https://github.com/quran
  - sunnahs.com https://github.com/sunnah-com
  - tarteel.ai https://github.com/Tarteel-io
-
+ - qurandatabase.org
