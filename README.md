@@ -5,5 +5,5 @@ A collection of sites about spiritualism (meaning from ism.co) I start by defaul
 ## QDC (QuranDotCom)
  - quran.com https://github.com/quran
  - sunnahs.com https://github.com/sunnah-com
- - tarteel https://github.com/Tarteel-io
+ - tarteel.ai https://github.com/Tarteel-io
 
